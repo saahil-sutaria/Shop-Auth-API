@@ -1,6 +1,6 @@
-# Node-Auth-APi
+# Node-Auth-APi 
 
-Express Framework, MongoDB NoSQL
+Express Framework, MongoDB NoSQL.
 
 1. Implemented CORS middleware to enable resource sharing 
 2. Authentication middleware to access resources at /POST, /PATCH, /DELETE, and /GET only by a logged in user
